@@ -12,7 +12,37 @@
 * Power Query
 * Dax Query
 
+## **Power BI Dashboard Visualization**
+
+![image](https://github.com/jippy66/ECOMMERCE-SALES-DASHBOARD-IN-POWER-BI/assets/110474637/09a8d343-d279-4bb0-940c-fd4829f75674)
+
+
+The E-commerce business Power BI Dashboard visualizes key performance indicators(KPI) including Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%.
+It showcases the trend of Sales and Profit for each month, the Category-wise Profits and Sales, Sales by States, top customers and Category-wise Sales%. Additionally, the top 5 sub-categories by Sales are also displayed. The dashboard includes filters like years, regions, and segments.
 
 ## **E-Commerce Business Performance Analysis**
 
-This Excel project showcases the key performance metrics and trends of an E-commerce business, utilizing Excel pivot tables and charts and Power BI dashboard. The data analysis aims to identify areas of improvement, optimize operations, and enhance business decision making.
+This project showcases the key performance metrics and trends of an E-commerce business, utilizing a Power BI dashboard. The data analysis aims to identify areas of improvement, optimize operations, and enhance business decision-making.
+
+
+## Project Learnings
+
+* Created an interactive dashboard to track and analyze online sales data.
+* Used complex parameters to drill down in worksheet and customization using filters and slicers.
+* Created connections, joined new tables, did calculations to manipulate data, and enabled user-driven parameters for visualization.
+* Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+
+
+
+
+
+
+
+
+
+
+## Conclusion
+
+By utilizing Power BI's capabilities, our project equips stakeholders with a dynamic and interactive platform to analyze sales data. The insights gained drive informed decisions and foster improved sales strategies.
+
+
