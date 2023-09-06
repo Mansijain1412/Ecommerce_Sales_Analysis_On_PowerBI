@@ -16,6 +16,8 @@
 
 ![image](https://github.com/jippy66/ECOMMERCE-SALES-DASHBOARD-IN-POWER-BI/assets/110474637/09a8d343-d279-4bb0-940c-fd4829f75674)
 
+![image](https://github.com/Mansijain1412/Ecommerce_Sales_Analysis_On_PowerBI)
+
 
 The E-commerce business Power BI Dashboard visualizes key performance indicators(KPI) including Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%.
 It showcases the trend of Sales and Profit for each month, the Category-wise Profits and Sales, Sales by States, top customers and Category-wise Sales%. Additionally, the top 5 sub-categories by Sales are also displayed. The dashboard includes filters like years, regions, and segments.
